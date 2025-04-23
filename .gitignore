@@ -16,10 +16,13 @@ Thumbs.db
 *.tmp
 
 # Ignore IDE-specific files
-.vscode/
 .idea/
 
 # Ignore exported data or diagrams (if applicable)
 *.csv
 *.png
 *.pdf
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
